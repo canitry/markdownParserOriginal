@@ -1,0 +1,1 @@
+[linkc](k)[](mymy.org)
